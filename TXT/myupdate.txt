@@ -1,0 +1,7 @@
+# Log Format
+OS232W01
+
+ZCZC W01 480 L01 Assignment 
+ZCZC W01 50 L02 Eating 
+ZCZC W01 50 L03 Sholat/Praying 
+
