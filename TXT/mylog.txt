@@ -7,3 +7,6 @@ ZCZC W00 50 L05 Quiz related including studying
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 30 L06 Sleep
+ZCZC W01 480 L01 Assignment 
+ZCZC W01 50 L02 Eating 
+ZCZC W01 50 L03 Sholat/Praying 
