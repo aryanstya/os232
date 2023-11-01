@@ -2,6 +2,14 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 60 L60 Install/Reinstall/Restore/Backup Desktop or Laptop
+ZCZC W06 180 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W06 50 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W06 50 L00 General, etc. 
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 60 L16 Assignment #06
+ZCZC W06 50 L05 Quiz related including studying
+ZCZC W06 10 L03 GitHub related
 ZCZC W05 120 L00 General, etc.
 ZCZC W05 120 L02 CLASSROOM/ZOOM meetings related
 ZCZC W05 20 L03 GitHub related
